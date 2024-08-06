@@ -36,8 +36,7 @@ const Contact = () => {
           <form className="flex flex-col gap-6 p-10 bg-[#606c38] rounded-xl">
             <h3 className="text-4xl text-accent font-bold capitalize">Let's work together</h3>
             <p className="text-[#fefae08e]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum maiores cum incidunt quo quasi ea suscipit vero quisquam veniam
-               repellat earum, esse mollitia consectetur quod facilis ratione tempore velit eius?
+              Please fill out the form below with your first name, last name, email address, phone number, and a brief message. I look forward to connecting with you and will respond as soon as possible.
             </p>
 
             {/**input */}
