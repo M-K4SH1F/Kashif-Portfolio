@@ -6,19 +6,19 @@ import Link from 'next/link';
 const services = [
   {
     num: "01",
-    title: "Web Development",
+    title: "Full Stack Web Development",
     desc: "I specialize in creating scalable, and secure web applications tailored to meet your business needs. From responsive design to robust back-end systems, I deliver top-notch web solutions.",
     href: "https://github.com/M-K4SH1F/3D-Animated-Website"
   },
   {
     num: "02",
-    title: "API Development",
+    title: "Backend Development",
     desc: "My API development services ensure seamless integration and efficient data exchange across your applications. I build reliable and high-performance APIs that power your digital ecosystem.",
     href: "https://github.com/M-K4SH1F/PatientCare-API"
   },
   {
     num: "03",
-    title: "AI Development",
+    title: "Machine Learning",
     desc: "Harness the power of artificial intelligence with my AI development services. I design and implement intelligent systems that enhance decision-making, automate processes, and provide valuable insights.",
     href: "https://github.com/M-K4SH1F/Anime-Tracker"
   },
