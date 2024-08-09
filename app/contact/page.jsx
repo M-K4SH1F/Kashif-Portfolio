@@ -1,6 +1,6 @@
 "use client";
 
-import emailjs from 'https://github.com/M-K4SH1F/Kashif-Portfolio/tree/main/%40emailjs/browser';
+import emailjs from '@emailjs/browser';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
