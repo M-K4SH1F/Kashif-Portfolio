@@ -47,10 +47,10 @@ const Contact = () => {
 
     try {
       const result = await emailjs.send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        import.meta.env.VITE_APP_EMAILJS_service_g1hh08t,
+        import.meta.env.VITE_APP_EMAILJS_template_hbnhx33,
         formData,
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        import.meta.env.VITE_APP_EMAILJS_JsJEnFote9POxQPI4
       );
 
       console.log(result.text);
